@@ -1,6 +1,6 @@
 # Project-tracker
 Download the Project-tracker Zip .
-Go to flow.microsoft.com
+\n Go to flow.microsoft.com
 Go to make.powerapps.com
 Click on the Apps tabs on the left hand rail
 Click 'Import Canvas App' in the ribbon and browse to the Project-tracker App Zip File
